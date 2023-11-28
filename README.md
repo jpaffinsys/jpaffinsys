@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpaffinsys
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m currently working on JavaScript, ReactJs and MUI
 - 📫 How to reach me - Twitter and Instagram username @jaiparkash77
 
 <!---
